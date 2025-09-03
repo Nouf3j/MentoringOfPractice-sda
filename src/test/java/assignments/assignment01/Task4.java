@@ -1,8 +1,6 @@
-package assignments;
+package assignments.assignment01;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.Dimension;
-import org.openqa.selenium.Point;
 
 
 public class Task4 {

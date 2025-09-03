@@ -6,7 +6,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 
 
-public class C04 {
+public class C04GetAndAdjustSize {
     public static void main(String[] args) {
 
 
