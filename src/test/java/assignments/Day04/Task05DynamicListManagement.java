@@ -1,4 +1,4 @@
-package tests;
+package assignments.Day04;
 
 import com.github.javafaker.Faker;
 import org.junit.jupiter.api.AfterEach;
@@ -14,7 +14,7 @@ import org.openqa.selenium.interactions.Actions;
 import java.util.List;
 
 import static org.junit.jupiter.api.Assertions.assertFalse;
-public class T05DynamicListManagement {
+public class Task05DynamicListManagement {
     /*
     Task:  Go to "http://webdriveruniversity.com/To-Do-List/index.html" and create a test that:
 
@@ -83,6 +83,4 @@ public class T05DynamicListManagement {
     }
 
 
-    }
-
-
+}
